@@ -31,8 +31,6 @@ Sou desenvolvedor com foco em **Full Stack**, criando sistemas úteis e automati
 
 ---
 
-## 📊 Estatísticas  
+## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-camargo1&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-camargo1&layout=compact&theme=radical)
+![Pedro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro-camargo1&theme=react-dark)
