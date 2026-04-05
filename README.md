@@ -31,8 +31,6 @@ Sou desenvolvedor com foco em **Full Stack**, criando sistemas úteis e automati
 
 ---
 
-## 📊 Estatísticas  
+## 📊 Atividade  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pedro-camargo1&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedro-camargo1&theme=react-dark&hide_border=true)
