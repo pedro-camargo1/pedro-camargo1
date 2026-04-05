@@ -30,8 +30,8 @@ Sou um desenvolvedor apaixonado por construir sistemas úteis e automatizar proc
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro-camargo1&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-camargo1&theme=dracula&hide_border=true" width="48%" />
 </div>
 
 ---
@@ -42,7 +42,7 @@ Sou um desenvolvedor apaixonado por construir sistemas úteis e automatizar proc
   <a href="https://www.linkedin.com/in/pedro-camargo-474365292/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
   </a>
-  <a href="mailto:seu_email@exemplo.com">
+  <a href="mailto:pedroscamargo23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email">
   </a>
 </div>
