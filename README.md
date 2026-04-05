@@ -1,55 +1,50 @@
 # Olá, eu sou o Pedro Henrique! 👋
 
-Sou desenvolvedor com foco em **Full Stack**, criando sistemas úteis e automatizando processos para resolver problemas reais. Trabalho principalmente com JavaScript, Node.js e Python, buscando sempre eficiência e aplicações práticas.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Foco+em+JavaScript+e+Python;Criador+de+Solu%C3%A7%C3%B5es+Reais" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🚀 Tecnologias e Habilidades
+## 👨‍💻 Sobre Mim
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,html,css,git" />
-</p>
+Sou um desenvolvedor apaixonado por construir sistemas úteis e automatizar processos para resolver problemas do mundo real. Tenho forte foco em **Full Stack**, buscando sempre escrever códigos eficientes, limpos e de fácil manutenção.
 
-* **Linguagens:** JavaScript (ES6+), Python, HTML, CSS
-* **Backend:** Node.js, APIs, automação de processos
-* **Frontend:** React (em evolução), interfaces web
-* **Ferramentas:** Git, GitHub, VS Code
+- 🔭 **Atualmente trabalhando em:** Sistemas completos (Frontend + Backend) e automações práticas.
+- 🌱 **Atualmente aprendendo:** Aprofundando conhecimentos em React, criação de APIs e boas práticas de software.
+- 🎯 **Meu objetivo:** Construir soluções que aumentem a eficiência de negócios e pessoas através da tecnologia.
+- 💬 **Pergunte-me sobre:** JavaScript, Node.js, Python e automação de tarefas.
 
 ---
 
+## 🚀 Tecnologias e Ferramentas
 
-## 🧠 Foco Atual
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linguagem-JavaScript-F7DF1E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linguagem-Python-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Foco-Automação-8A2BE2?style=for-the-badge" />
-</p>
-
----
-
-## ⚡ Atualmente
-
-- Desenvolvendo sistemas completos (frontend + backend)  
-- Criando automações para tarefas reais  
-- Evoluindo projetos com aplicação prática  
-
----
-
-## 🎯 Objetivo
-
-Construir soluções que aumentem eficiência, automatizem processos e resolvam problemas reais através da tecnologia.
-
----
-
-## 🤝 Contato
-
-<p align="center">
-  <a href="[SEU_LINKEDIN](https://www.linkedin.com/in/pedro-camargo-474365292/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,html,css,git,github,vscode&perline=15" />
   </a>
-</p>
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dracula&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 📫 Como me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-camargo-474365292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu_email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email">
+  </a>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
