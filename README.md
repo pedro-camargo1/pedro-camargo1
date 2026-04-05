@@ -17,7 +17,6 @@ Sou desenvolvedor com foco em **Full Stack**, criando sistemas úteis e automati
 
 ---
 
----
 
 ## 🧠 Foco Atual
 
@@ -52,3 +51,5 @@ Construir soluções que aumentem eficiência, automatizem processos e resolvam 
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
