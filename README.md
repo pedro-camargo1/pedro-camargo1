@@ -17,20 +17,38 @@ Sou desenvolvedor com foco em **Full Stack**, criando sistemas úteis e automati
 
 ---
 
-## 🌱 Atualmente focado em
+---
 
-* Desenvolvimento Full Stack (frontend + backend)
-* Construção de sistemas com aplicação real
-* Automação e integração de serviços
+## 🧠 Foco Atual
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linguagem-JavaScript-F7DF1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linguagem-Python-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Automação-8A2BE2?style=for-the-badge" />
+</p>
+
+---
+
+## ⚡ Atualmente
+
+- Desenvolvendo sistemas completos (frontend + backend)  
+- Criando automações para tarefas reais  
+- Evoluindo projetos com aplicação prática  
+
+---
+
+## 🎯 Objetivo
+
+Construir soluções que aumentem eficiência, automatizem processos e resolvam problemas reais através da tecnologia.
 
 ---
 
 ## 🤝 Contato
 
-* 💼 LinkedIn: (https://www.linkedin.com/in/pedro-camargo-474365292/)
-
----
-
-## 📊 Atividade  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pedro-camargo1&theme=tokyonight&hide_border=true)
+<p align="center">
+  <a href="[SEU_LINKEDIN](https://www.linkedin.com/in/pedro-camargo-474365292/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
