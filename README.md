@@ -27,11 +27,15 @@ Sou um desenvolvedor apaixonado por construir sistemas úteis e automatizar proc
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Meu Perfil Técnico
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro-camargo1&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-camargo1&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-camargo1&layout=compact&theme=dracula&hide_border=true" width="350px" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://profile-counter.glitch.me/pedro-camargo1/count.svg" alt="Contador de Visitas" />
 </div>
 
 ---
